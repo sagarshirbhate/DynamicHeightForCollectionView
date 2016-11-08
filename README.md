@@ -29,6 +29,12 @@
 ```javascript
 #import "customLayout.h"
 ```
+And use 
+```javascript 
+<customLayoutDelegate> 
+``` 
+to your controller.
+
 <sub>Write Simple Code in your viewDidLoad Method</sub>
 -
 ```javascript
